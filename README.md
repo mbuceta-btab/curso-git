@@ -1,2 +1,2 @@
 # curso-git
-This repository is created to follow udemy course.
+This repository was created to follow udemy course.
